@@ -13,7 +13,7 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 <!-- omit from toc --> 
 ## Contents
 
-- [🏛️ Official Resources](#️-official-resources)
+- [🏛️ Official Resources](#-official-resources)
 - [🎓 Education](#-education)
   - [Basic Theory](#basic-theory)
   - [YouTube Educational Videos](#youtube-educational-videos)
@@ -32,11 +32,12 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
   - [Bridges](#bridges)
   - [Wallets](#wallets)
   - [Staking](#staking)
+  - [TON Storage](#ton-storage)
 - [🌐 Authentication](#-authentication)
 - [💵 Funds](#-funds)
 - [🎛 Utilities](#-utilities)
 - [👨‍🎨 UX/UI](#-uxui)
-- [✏️ Contribute](#️-contribute)
+- [✏️ Contribute](#-contribute)
 
 ---
 
@@ -236,6 +237,14 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 - [TON Liquid Staking protocol](https://ton-ls-protocol.gitbook.io/ton-liquid-staking-protocol/) - Design guidelines of the TON Liquid Staking for developers.
 - [TonWhales staking](https://tonwhales.com/staking)
 - [The list of the TON nominator pools](https://tonvalidators.org/)
+
+### TON Storage
+Decentralized storage of private and public data any size on TON network.
+- [Overview](https://blog.ton.org/ton-storage)
+- [Storage](http://storage.ton/) in .ton network
+- [Storage](https://storage.ton.run) accessible by ton.run
+- [Guide](https://docs.ton.org/participate/ton-storage/storage-daemon): how to store and download data
+- [Example of stored data](https://storage.ton.run/gateway/7FEA7AF2325F0A5B6908939C9D72F92DB4C0CA52CCA8CE2C48BB2708BF188541/duck.png)
 
 ---
 
